@@ -6,5 +6,6 @@ def say_hi(name):
     print('--------')
     print('change on main_another comper')
     print('change 3 comper_main_list')
+    print('print 4 comper change_main_dict')
     change after rollback
     lallalala
