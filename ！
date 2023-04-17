@@ -7,6 +7,8 @@ def say_hi(name):
     print('change on main_another comper')
     print('change 3 comper_main_list')
     print('print 4 comper change_main_dict')
+=======
     print('change 5 comper_main_tuple')
+>>>>>>> 6a5c44c (5comper change)
     change after rollback
     lallalala
