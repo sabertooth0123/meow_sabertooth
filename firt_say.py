@@ -9,6 +9,5 @@ def say_hi(name):
     print('print 4 comper change_main_dict')
     print('change 5 comper_main_tuple')
     print('change on 5 comoer but on dev_api')
-    print('meipulljiupush')
     change after rollback
     lallalala
